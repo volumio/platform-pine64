@@ -12,3 +12,4 @@ This repo contains all platform-specific files, used by the Volumio Builder to c
 **Platform files, kernel version 3.10.104**
 - 20161105: Full volumio support
 - 20161106: Improved audio jack mixer settings, added sndhdmi
+- 20161107: Returning to longsleep's default fro hdmi audio (builtin)
