@@ -1,5 +1,6 @@
-Build
-=====
+# platform-pine64
+
+Kernel Source: https://github.com/longsleep/linux-pine64.git, branch: pine64-hacks-1.2 
 
 This repo contains all platform-specific files, used by the Volumio Builder to create a **Pine64** image:
 
