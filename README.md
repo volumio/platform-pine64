@@ -1,6 +1,6 @@
 # platform-pine64
 
-Kernel Source: https://github.com/longsleep/linux-pine64.git, branch: pine64-hacks-1.2 
+Kernel Source: https://github.com/longsleep/linux-pine64.git, branch: pine64-hacks-1.2 (3.10.104)
 
 This repo contains all platform-specific files, used by the Volumio Builder to create a **Pine64** image:
 
@@ -13,4 +13,6 @@ This repo contains all platform-specific files, used by the Volumio Builder to c
 **Platform files, kernel version 3.10.104**
 - 20161105: Full volumio support
 - 20161106: Improved audio jack mixer settings, added sndhdmi
-- 20161107: Returning to longsleep's default fro hdmi audio (builtin)
+- 20161107: Returning to longsleep's default for hdmi audio (built-in)
+- 20161121: Adding iso8859-1 as a built-in module
+
