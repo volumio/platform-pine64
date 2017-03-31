@@ -15,4 +15,4 @@ This repo contains all platform-specific files, used by the Volumio Builder to c
 - 20161106: Improved audio jack mixer settings, added sndhdmi
 - 20161107: Returning to longsleep's default for hdmi audio (built-in)
 - 20161121: Adding iso8859-1 as a built-in module
-
+- 20170331: Adding snd-aloop to support brutefir
