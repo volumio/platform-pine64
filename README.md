@@ -1,6 +1,8 @@
 # platform-pine64
 
 Kernel Source: https://github.com/ayufan-pine64/linux-pine64.git, branch: pine64-hacks-1.2 (3.10.105)
+Kernel Source: https://github.com/gkkpch/linux-mainline.git, branch linux-5.7.y
+
 
 This repo contains all platform-specific files, used by the Volumio Builder to create a **Pine64** image:
 
@@ -24,6 +26,10 @@ This repo contains all platform-specific files, used by the Volumio Builder to c
 - 20171110: Switched to kernel 3.10.105, enabled support for sopine64 & pine64 LTS incl. eMMC boot  
 
 **Platform files, kernel version 5.7.19**
-- 20201203: Major update, moved to kernel 5.7.19, known issue: rtl8723-bt not supported
+- 20201203: Major update, moved to kernel 5.7.19  
+- 20201203: Pine64/plus not supported yet (planned)  
+- 20201203: known issue: rtl8723-bt not supported  
+- 20201203: preparing for pine64/pine64plus  
 
 
+  
