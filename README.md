@@ -30,6 +30,8 @@ This repo contains all platform-specific files, used by the Volumio Builder to c
 - 20201203: Pine64/plus not supported yet (planned)  
 - 20201203: known issue: rtl8723-bt not supported  
 - 20201203: preparing for pine64/pine64plus  
+- 20201204: fix default headphone from "off" to "on"  
+
 
 
   
