@@ -31,7 +31,9 @@ This repo contains all platform-specific files, used by the Volumio Builder to c
 - 20201203: known issue: rtl8723-bt not supported  
 - 20201203: preparing for pine64/pine64plus  
 - 20201204: fix default headphone from "off" to "on"  
-- 20201208: Add wifi support for Pine64 module (rtl8723bs)  
+- 20201208: Add wifi support for Pine64 module (rtl8723bs)/  
+Folder rename and contents restructure  
+  
 
 
 
