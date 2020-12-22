@@ -34,6 +34,8 @@ This repo contains all platform-specific files, used by the Volumio Builder to c
 - 20201208: Add wifi support for Pine64 module (rtl8723bs)/  
 Folder rename and contents restructure  
 - 20201209: Enable pine64/pine64plus/ enable eMMC boot for soPine64/Pine64LTS  
+- 20201222: Add I2S/HDMI/SPDIF to Pine64/Pine64+  
+
 
   
 
